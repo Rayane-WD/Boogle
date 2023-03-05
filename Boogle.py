@@ -143,7 +143,7 @@ class DicePage(QWidget):
 
       #Check box pour animation
       self.checkbox_animation = QCheckBox("Animations")
-      self.checkbox_animation.setCheckState(2)
+      #self.checkbox_animation.setCheckState(2)
 
       #On crée un vertical layout
       self.myVertiLayout_left = QVBoxLayout()
@@ -376,7 +376,7 @@ class GamePage(QWidget):
    def showTime(self):
       text_time = f"Temps restant - {self.count//60:02d} : {self.count%60:02d}"
       self.label_time.setText(text_time)
-      self.count -= 30
+      self.count -= 1
 
       if self.count < 0 :
          self.label_info.setText("Temps écoulé !")
