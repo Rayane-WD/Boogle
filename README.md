@@ -22,7 +22,7 @@ Library PyQt5
 
 4. Select "Valider" when you are sure about your word.
 
- <img src="img/img4_word_found.jpg" alt="img4_word_found" width="270" height="270">
+ <img src="img/img4_word_found.jpg" alt="img4_word_found" width="425" height="250">
 
 
 ## How to win
