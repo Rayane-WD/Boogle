@@ -33,4 +33,4 @@ Run the *Boggle.py* file along with all other files in the same folder.
 
 ## Context
 This project was created as part of my studies in the 2nd year of my engineer school ESME Sudria.
-
+***Rayane WAIDI*** - [My Linkdin](https://www.linkedin.com/in/rayane-waidi/).<br/>
