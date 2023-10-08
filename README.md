@@ -15,7 +15,7 @@ Library PyQt5
  <img src="img/img2_random_grid.jpg" alt="img2_random_grid" width="425" height="250">
 
 
-3. You now have a certain period of time to find the most (French) words of 3 letters or more hidden in the grid. When you select only adjacent letters can be used to form a word
+3. You now have a certain period of time to find the most (French) words of 3 letters or more hidden in the grid. When you select only adjacent letters can be used to form a word.
  
  <img src="img/img3_letter_selected.jpg" alt="img3_letter_selected" width="270" height="270">
 
